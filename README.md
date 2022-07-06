@@ -12,10 +12,10 @@
  
  ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/sanyamjain036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanyamjain036" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanyamjain036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyamjain036" height="30" width="40" /></a>
-<a href="https://instagram.com/sanyamjain036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyamjain036" height="30" width="40" /></a>
- <a href="mailto:sanyamjain10168@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="40"/></a>
+<a href="https://twitter.com/sanyamjain036" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanyamjain036" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanyamjain036" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyamjain036" height="30" width="40" /></a>
+<a href="https://instagram.com/sanyamjain036" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyamjain036" height="30" width="40" /></a>
+ <a href="mailto:sanyamjain10168@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="40"/></a>
 </p>
 
 ## **Tech Stack**:
@@ -39,7 +39,7 @@
  
  ## Stats:
 <p align="center">
-<a href="https://github.com/sanyamjain036"><img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanyamjain036&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanyamjain036&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/sanyamjain036"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanyamjain036&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanyamjain036&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
