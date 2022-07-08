@@ -8,6 +8,7 @@
 - 💻  Currently working as Software Engineering Intern at <a href="https://kyloapps.com/" target="blank">Kylo Apps</a>
 - 🎯 I also love to solve problems on data structures and algorithms in C/C++.
 - ❤️ Always open to new opportunities and projects.
+- ⚡ Reach out to me at: **sanyamjain10168@gmail.com**
 <!-- - ⚡ Fun fact: Am I really a Mechanical Engineer? Yes, but after 1.5 years of college, I realised my passion is in coding.-->
  
  ## Connect with me:
