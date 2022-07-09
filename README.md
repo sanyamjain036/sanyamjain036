@@ -1,7 +1,7 @@
 ## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyamjain036&label=Profile%20views&color=0e75b6&style=flat" alt="sanyamjain036" /></p>
-<img align='right' src="https://media3.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47bh3t91kdlzc7k7nquk9pnkmgtyjyu9b1qwc1iup4&rid=giphy.gif&ct=s" width="270"> 
+<img align='right' src="https://media3.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47bh3t91kdlzc7k7nquk9pnkmgtyjyu9b1qwc1iup4&rid=giphy.gif&ct=s" width="250"> 
 
 ## About Me ?
 - 👨‍🎓  I’m currently pursuing Bachelor’s degree in Mechanical Engineering from the Delhi Technological University, Delhi, India.
