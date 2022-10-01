@@ -4,7 +4,7 @@
 <a href="https://github.com/sanyamjain036/"><img align='right' src="https://media3.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47bh3t91kdlzc7k7nquk9pnkmgtyjyu9b1qwc1iup4&rid=giphy.gif&ct=s" width="250"></a>
 
 ## About Me ?
-- 👨‍🎓  I’m currently pursuing Bachelor’s degree in Mechanical Engineering from the Delhi Technological University, Delhi, India.
+- 👨‍🎓  I’m currently pursuing Bachelor’s degree from the Delhi Technological University, Delhi, India.
 - ⚡  I’m skilled and experienced in Full Stack Web Development primarily in MERN Stack.
 - 💻  Currently working as Software Engineering Intern at <a href="https://kyloapps.com/" target="blank">Kylo Apps</a>
 - 🎯 I also love to solve problems on data structures and algorithms in C/C++.
