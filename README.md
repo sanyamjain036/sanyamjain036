@@ -6,7 +6,7 @@
 ## About Me ?
 - 👨‍🎓  I’m currently pursuing Bachelor’s degree from the Delhi Technological University, Delhi, India.
 - ⚡  I’m skilled and experienced in Full Stack Web Development primarily in MERN Stack.
-- 💻  Currently working as Software Engineering Intern at <a href="https://kyloapps.com/" target="blank">Kylo Apps</a>
+<!-- - 💻  Currently working as Software Engineering Intern at <a href="https://kyloapps.com/" target="blank">Kylo Apps</a> -->
 - 🎯 I also love to solve problems on data structures and algorithms in C/C++.
 - ❤️ Always open to new opportunities and projects.
 - ⚡ Reach out to me at: **sanyamjain10168@gmail.com**
