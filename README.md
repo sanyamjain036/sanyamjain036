@@ -10,7 +10,8 @@
 - ❤️ Always open to new opportunities and projects.
 - ⚡ Reach out to me at: **sanyamjain10168@gmail.com**
 <!-- - ⚡ Fun fact: Am I really a Mechanical Engineer? Yes, but after 1.5 years of college, I realised my passion is in coding.-->
- 
+
+ <!---
  ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/sanyamjain036" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanyamjain036" height="30" width="40" /></a>
@@ -18,6 +19,7 @@
 <a href="https://instagram.com/sanyamjain036" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyamjain036" height="30" width="40" /></a>
  <a href="mailto:sanyamjain10168@gmail.com" target="_top"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"  width="40"/></a>
 </p>
+-->
 
 <!---
 ## **Tech Stack**:
