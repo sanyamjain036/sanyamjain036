@@ -4,10 +4,12 @@
 <a href="https://github.com/sanyamjain036/"><img align='right' src="https://media3.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47bh3t91kdlzc7k7nquk9pnkmgtyjyu9b1qwc1iup4&rid=giphy.gif&ct=s" width="250"></a>
 
 ## About Me ?
-- 👨‍🎓  I’m currently pursuing Bachelor’s degree from the Delhi Technological University, Delhi, India.
-- ⚡  I’m skilled and experienced in Full Stack Web Development primarily in MERN Stack.<!-- - 💻  Currently working as Software Engineering Intern at <a href="https://kyloapps.com/" target="blank">Kylo Apps</a> -->
-- 🎯 I also love to solve problems on data structures and algorithms in C/C++.
-- ❤️ Always open to new opportunities and projects.
+- ⚡ Skilled Full Stack Developer: Experienced in the MERN Stack, I excel in creating dynamic and responsive web applications.
+- 💡 Problem Solver: Passionate about solving real-life problems through innovative software engineering solutions.
+- 🚀 Startup Collaborator: I've partnered with multiple startups, leveraging my skills to help them scale and succeed.
+- 🖥️ Cross-Platform Development: Proficient in building cross-platform desktop applications using Electron and implementing advanced LLM RAG ChatBots.
+- 🎯 Algorithm Enthusiast: Enjoy tackling data structures and algorithm challenges using C/C++ to sharpen my problem-solving abilities.
+- ❤️ Open to Opportunities: Always eager to explore new projects and opportunities.
 - ⚡ Reach out to me at: **sanyamjain10168@gmail.com**
 <!-- - ⚡ Fun fact: Am I really a Mechanical Engineer? Yes, but after 1.5 years of college, I realised my passion is in coding.-->
 
