@@ -10,7 +10,7 @@
   
 - 🖥️ Cross-Platform Development: Proficient in building cross-platform desktop applications using Electron and implementing LLM RAG ChatBots.
   
-- ⚡ Reach out to me at: **sanyamjain10168@gmail.com**
+- ⚡ Reach out to me at: **hello@sanyamserver.online**
 
  <!---
  ## Connect with me:
