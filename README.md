@@ -4,11 +4,9 @@
 <a href="https://github.com/sanyamjain036/"><img align='right' src="https://media3.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47bh3t91kdlzc7k7nquk9pnkmgtyjyu9b1qwc1iup4&rid=giphy.gif&ct=s" width="250"></a>
 
 ## About Me ?
-- 💡 Problem Solver: Passionate about solving real-life problems through innovative software engineering solutions.
+- I’m Sanyam, a backend engineer from India. I work at Kwikpic building the backend systems and infrastructure that keep things running at scale.
   
-- 🚀 Startup Collaborator: I've partnered with multiple startups, leveraging my skills to help them scale and succeed.
-  
-- 🖥️ Cross-Platform Development: Proficient in building cross-platform desktop applications using Electron and implementing LLM RAG ChatBots.
+- I've worked with multiple startups, help them to scale and stay cost efficient.
   
 - ⚡ Reach out to me at: **hello@sanyamserver.online**
 
